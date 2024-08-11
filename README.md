@@ -1,4 +1,4 @@
-Here's an updated version of the content with examples and clarifications for better understanding. You can use this for your GitHub file:
+
 
 ---
 
@@ -122,4 +122,3 @@ This query returns cities where there are customers but no suppliers.
 
 ---
 
-Feel free to use this content in your GitHub file. If you need any further modifications or additions, let me know!
