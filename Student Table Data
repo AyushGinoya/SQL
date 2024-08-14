@@ -1,0 +1,13 @@
+CREATE TABLE STUDENT (
+    STUDENT_ID INT PRIMARY KEY,              -- Primary key for uniquely identifying each student
+    STUDENT_NAME VARCHAR(50) NOT NULL,       -- Student's name, cannot be null
+    BRANCH VARCHAR(50) NOT NULL              -- Branch of study, cannot be null
+);
+
+
+INSERT INTO STUDENT (STUDENT_ID, STUDENT_NAME, BRANCH) VALUES
+(1, 'Alice Johnson', 'Computer Science'),
+(2, 'Bob Smith', 'Mechanical Engineering'),
+(3, 'Charlie Brown', 'Electrical Engineering'),
+(4, 'Diana Prince', 'Civil Engineering'),
+(5, 'Eve Adams', 'Information Technology');
